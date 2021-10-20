@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Practica node.js",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "español",
+    "practica"
+  ],
+  "author": "gsdesign",
+  "license": "ISC"
+}
